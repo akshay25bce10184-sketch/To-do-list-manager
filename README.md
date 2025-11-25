@@ -1,4 +1,5 @@
 TASK-MANAGER-
+
 Secure CLI Task Manager
 
 A robust, command-line based Task Manager application built with Python. It features a persistent SQLite database to store tasks and implements SHA-256 hashing to securely store user passwords.
