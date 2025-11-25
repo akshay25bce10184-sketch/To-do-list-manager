@@ -95,11 +95,11 @@ This hash is stored in the database.
 
 When logging in, the input is hashed again and compared to the stored version.
 
-Benefit: If the database file (sarthak.db) is stolen or viewed, the attacker cannot see the actual user passwords.
+Benefit: If the database file (akshay.db) is stolen or viewed, the attacker cannot see the actual user passwords.
 
 📂 Project Structure
 
-. ├── task_manager.py # Main application code ├── sarthak.db # Database file (created auto-magically) └── README.md # This documentation
+. ├── task_manager.py # Main application code ├── akshay.db # Database file (created auto-magically) └── README.md # This documentation
 
 ⚠️ Troubleshooting
 
