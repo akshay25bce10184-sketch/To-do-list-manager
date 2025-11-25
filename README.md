@@ -1,4 +1,4 @@
-TASK-MANAGER-
+Task Manager Application 
 
 Secure CLI Task Manager
 
